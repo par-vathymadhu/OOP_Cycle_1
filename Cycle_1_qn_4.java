@@ -7,7 +7,7 @@ class Cycle_1_qn_4
     {
         Scanner qn4 = new Scanner(System.in);
         int a=0;
-        System.out.println("Enter the number: ");
+        System.out.print("Enter the number: ");
         int num=qn4.nextInt();
         for(int i=1;i<=(num/2);i++)
         {
@@ -24,8 +24,7 @@ class Cycle_1_qn_4
 /**
 Output:
 
-Enter the number: 
-7
+Enter the number: 7
 7 is prime
 
 **/
