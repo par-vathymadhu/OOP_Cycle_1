@@ -1,3 +1,5 @@
+/**Program to check whether a given number is prime or not**/
+
 import java.util.*;
 class Cycle_1_qn_4
 {
@@ -18,3 +20,12 @@ class Cycle_1_qn_4
             System.out.println(num+" isn't prime");
     }
 }
+
+/**
+Output:
+
+Enter the number: 
+7
+7 is prime
+
+**/
