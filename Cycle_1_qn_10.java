@@ -1,3 +1,5 @@
+/**Program to check whether given number is palindrome or not**/
+
 import java.util.*;
 public class Cycle_1_qn_10 
 {
@@ -19,3 +21,11 @@ public class Cycle_1_qn_10
             System.out.println(copy+" isn't palindrome");
     }    
 }
+
+/**
+Output:
+
+Enter a number: 1221
+1221 is palindrome
+
+**/
