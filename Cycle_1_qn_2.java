@@ -1,3 +1,6 @@
+/**Program to add two numbers.**/
+
+
 import java.util.*;
 public class Cycle_1_qn_2 
 {
@@ -10,3 +13,13 @@ public class Cycle_1_qn_2
         System.out.println(a+" + "+b+" = "+(a+b));
     }
 }
+
+/**
+Output:
+
+Enter the numbers to add: 
+6
+4
+6 + 4 = 10
+
+**/
