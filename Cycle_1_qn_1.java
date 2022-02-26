@@ -1,3 +1,6 @@
+/**Program to print hello world**/
+
+
 class Cycle_1_qn_1
 {
     public static void main(String args[])
@@ -5,3 +8,10 @@ class Cycle_1_qn_1
         System.out.println("Hello world");
     }
 }
+
+/**
+Output: 
+
+Hello world
+
+*//
