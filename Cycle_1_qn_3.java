@@ -6,7 +6,7 @@ public class Cycle_1_qn_3
     public static void main(String args[])
     {
         Scanner obj= new Scanner (System.in);
-        System.out.println("Enter the number: ");
+        System.out.print("Enter the number: ");
         int a = obj.nextInt();
         if( a%2==0)
             System.out.println(a+" is an even number");   
@@ -18,8 +18,7 @@ public class Cycle_1_qn_3
 /**
 Output:
 
-Enter the number: 
-76
+Enter the number: 76
 76 is an even number
 
 **/
