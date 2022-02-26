@@ -1,3 +1,5 @@
+/**Program to check whether a given number is odd or even**/
+
 import java.util.*;
 public class Cycle_1_qn_3 
 {
@@ -12,4 +14,13 @@ public class Cycle_1_qn_3
             System.out.println(a+" is an odd number");   
     }
 }
+
+/**
+Output:
+
+Enter the number: 
+76
+76 is an even number
+
+**/
 
