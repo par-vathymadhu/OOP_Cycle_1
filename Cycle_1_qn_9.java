@@ -1,10 +1,12 @@
+/**Program to check given number is Armstrong or not**/
+
 import java.util.*;
 public class Cycle_1_qn_9 
 {
     public static void main(String args[])
     {
         Scanner qn9=new Scanner(System.in);
-        System.out.println("Enter the number: ");
+        System.out.print("Enter the number: ");
         int num=qn9.nextInt();
         int copy=num,a,b=0,i=0;
         while(i<num)
@@ -19,3 +21,11 @@ public class Cycle_1_qn_9
             System.out.println(copy+" isn't an armstrong number");
     }    
 }
+
+/**
+Output:
+
+Enter the number: 153
+153 is an armstrong number
+
+**/
