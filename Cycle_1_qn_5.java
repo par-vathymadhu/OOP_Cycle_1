@@ -1,3 +1,5 @@
+/**Program to find sum of first n natural numbers**/
+
 import java.util.*;
 public class Cycle_1_qn_5 
 {
@@ -12,3 +14,11 @@ public class Cycle_1_qn_5
         System.out.println("Sum of first "+num+" natural numbers: "+sum);
     }
 }
+
+/**
+Output:
+
+Enter the natural number till which the sum needs to be calculated: 6
+Sum of first 6 natural numbers: 21
+
+**/
